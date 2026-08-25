@@ -51,7 +51,7 @@ SHAP ranked whether a police officer attended the scene, number of vehicles, spe
 
 ## Running it
 
-The notebook: **[https://github.com/vinayakpratap/AI-Powered-Road-Accident-Severity-Prediction-System/blob/main/Minor_project.ipynb]**
+The notebook: **[https://colab.research.google.com/drive/1tVw8Gsl9rU8EQs3LDYgoi1N9rotSB23X]**
 
 Or locally:
 
